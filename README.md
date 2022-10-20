@@ -1,2 +1,1 @@
-# LotBox
-![subjects](banner.png)
+
