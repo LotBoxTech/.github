@@ -1,2 +1,2 @@
 # LotBox
-![subjects](banner.png)
+![subjects](/profile/banner.png)
